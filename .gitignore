@@ -1,0 +1,16 @@
+# Local environment
+.env
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit / app runtime files
+knowledge_base.json
+embeddings.npy
+tfidf_vectorizer.pkl
+temp_input.wav
+ai_response.mp3
