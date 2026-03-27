@@ -2,6 +2,13 @@
 
 This project is a lightweight Streamlit app for a retrieval-augmented audio bot using Whisper, GPT, and gTTS.
 
+Check it out on https://audio-bot-rag-hsn82qjpeicces6p76d6kh.streamlit.app/
+
+## Screenshot
+
+![Audio Bot RAG screenshot](audio-bot-rag-screenshot.png)
+
+
 ## Clone the repository
 
 ```bash
